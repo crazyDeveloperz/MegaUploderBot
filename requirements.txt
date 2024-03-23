@@ -4,3 +4,4 @@ filetype
 filesplit
 wget
 git+https://github.com/asmsafone/mega.py.git
+tenacity
