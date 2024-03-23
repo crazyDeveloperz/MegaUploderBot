@@ -1,7 +1,4 @@
-# Copyright (c) 2022 Itz-fork
-# Don't kang this else your dad is gae
-
-from mega import Mega
+from mega.mega import Mega
 from config import Config
 from megadl.data import PROCESS_TEXT, LOGIN_ERROR_TEXT, LOGGED_AS_USER
 
