@@ -1,4 +1,4 @@
-from mega.mega import Mega
+from mega import Mega
 from config import Config
 from megadl.data import PROCESS_TEXT, LOGIN_ERROR_TEXT, LOGGED_AS_USER
 
